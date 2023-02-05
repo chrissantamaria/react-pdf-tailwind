@@ -41,7 +41,7 @@ export default function MyPdf() {
 
 ## Installation
 
-`npm install react-pdf-tailwind`
+`npm install @chrissantamaria/react-pdf-tailwind`
 
 ## Notes
 
