@@ -1,6 +1,6 @@
 {
   "name": "@chrissantamaria/react-pdf-tailwind",
-  "version": "1.0.1-fork.1",
+  "version": "1.0.1-fork.2",
   "description": "Use Tailwind CSS to style PDFs created with react-pdf",
   "keywords": [
     "tailwind",
