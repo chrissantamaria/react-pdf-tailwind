@@ -8,7 +8,7 @@
     "pdf"
   ],
   "author": "Andreas Anckar",
-  "homepage": "https://github.com/aanckar/react-pdf-tailwind",
+  "homepage": "https://github.com/chrissantamaria/react-pdf-tailwind",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
