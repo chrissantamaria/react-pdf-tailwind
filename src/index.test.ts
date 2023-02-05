@@ -767,7 +767,7 @@ describe("Typography", () => {
       ["no-underline", "none"],
     ])("%s", (key, value) => {
       expect(tw(key)).toEqual({
-        textDecorationLine: value,
+        textDecoration: value,
       });
     });
   });
